@@ -18,3 +18,12 @@
 - ArrayList
 - Scanner
 - IntelliJ IDEA
+  
+## Architecture
+
+- Main.java - Handles the console menu and user input
+- Portfolio.java - Manages balance, investments, and portfolio operations
+- User.java - Stores user information
+- Stock.java - Stores stock name, symbol, and price
+- Investment.java - Handles stock investment details
+- Bill.java - Manages bill information and payments
